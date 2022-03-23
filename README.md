@@ -1,9 +1,7 @@
 # 👾🎮 Game-Reccomender
 A video game recommendation engine built using the power of natural language processing (NLP) and AI.
 
-*See [The Team](#the-team) for more details.*
-
-## 💻 The Team
+## 🧑‍💻 The Team
 
 This reccomendation engine was made by:
 
