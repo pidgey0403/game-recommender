@@ -1,11 +1,11 @@
 import csv
 from collections import Counter
 
-with open('mainFile.csv', 'w', newline='', encoding="utf-8") as csvfile:
+with open('mainFile.csv', 'w') as csvfile:
     csvWriter = csv.writer(csvfile)
     csvWriter.writerow(['Title', 'Recommendations'])
 
-    with open("5mostCommonWords.csv", 'r', encoding='utf8') as titleKey, open('5mostCommonGames.csv', 'r', encoding='utf8') as wordKey:
+    with open("5mostCommonWords.csv", 'r') as titleKey, open('5mostCommonGames.csv', 'r') as wordKey:
         # creating the reader objects
         titleKeyReader = csv.reader(titleKey)
         wordKeyReader = csv.reader(wordKey)

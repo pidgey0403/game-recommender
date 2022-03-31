@@ -1,10 +1,10 @@
 import spacy
-from spacy.lang.en.examples import sentences
+from spacy.lang.en import English
 import pandas as pd
 import csv
 
 # REPLACE WITH YOUR FILE PATH
-filePath = "C:/!!temporary files (delete regularly)/metacritic_game_user_comments.csv"
+filePath = "/Users/alexn/Documents/metacritic_game_user_comments.csv"
 dataset = pd.read_csv(filePath)
 
 remove_words = ["i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you", "your", "yours", "yourself",
