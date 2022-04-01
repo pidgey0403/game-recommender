@@ -1,7 +1,9 @@
 function submitForm(){
-    var input = document.getElementById("myform");
-    var text = "";
-    text = input.elements[0].value;
-    window.localStorage.setItem(text);
-    window.write(window.localStorage.getItem(text));
+    var nameValue = document.getElementById("searchTerm").value;
+    //bug: takes 2 presses to display results initially
+
+    document.getElementById("display-results").innerHTML = nameValue;
+    location.href = "#page-3";
+
+    
 }

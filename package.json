@@ -1,0 +1,22 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "i dunno what im doing",
+  "main": "app.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pidgey0403/game-recommender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pidgey0403/game-recommender/issues"
+  },
+  "homepage": "https://github.com/pidgey0403/game-recommender#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

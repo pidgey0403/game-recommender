@@ -8,15 +8,21 @@ background-repeat: no-repeat;
 #page-1{
     background-image: url('bg.jpg');
     background-position: center; 
-background-repeat: no-repeat;
+    background-repeat: no-repeat;
     height: 100vh;
     padding-top: 17%;
 }
 
-#page-2{
+#page-2,#page-3{
   height: 100vh;
-  padding-top: 10%;
+  padding-top: 7%;
   text-align: center;
+}
+
+#page-3{
+  background-color: rgb(48, 22, 82);
+  background-image: linear-gradient( rgb(48, 22, 82), rgb(44, 21, 107));
+
 }
 
 .input-group{
