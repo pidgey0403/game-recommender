@@ -8,7 +8,7 @@ This recommendation engine was made by:
 - Rhea Mangat - [rheamangat]
 - Gabby Niamat - [pidgey0403]
 - Rohit Purandhara - [Rohit-Purandhara]
-- Robyn Berdan - []
+- Robyn Berdan - [RobynBerdan]
 
 ### 💻 How it was built
 
