@@ -12,7 +12,9 @@ This recommendation engine was made by:
 
 ### 💻 How it was built
 
-- [Figma](https://www.figma.com/)
-- [sPacy](https://spacy.io/) 
+- [Figma](https://www.figma.com/) 
+- [sPacy](https://spacy.io/)
 - [pandas](https://pandas.pydata.org/) 
+- [jQuery](https://jquery.com/)
+- [ajax](https://api.jquery.com/category/ajax/)
 - [Git](https://git-scm.com/) and [GitHub](https://github.com/)
