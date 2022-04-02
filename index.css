@@ -1,88 +1,100 @@
-body{
-background-color: rgb(149, 34, 134);
-color: white;
-background-position: center; 
-background-repeat: no-repeat;
+body {
+  background-color: rgb(97, 20, 87);
+  color: white;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-#page-1{
-    background-image: url('bg.jpg');
-    background-position: center; 
-    background-repeat: no-repeat;
-    height: 100vh;
-    padding-top: 17%;
+#page-1 {
+  background-image: url('bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  padding-top: 17%;
 }
 
-#page-2,#page-3{
+#page-2,
+#page-3 {
   height: 100vh;
   padding-top: 7%;
   text-align: center;
 }
 
-#page-3{
-  background-color: rgb(48, 22, 82);
-  background-image: linear-gradient( rgb(48, 22, 82), rgb(44, 21, 107));
+#page-3 {
+  padding-top: 16%;
+  background-color: rgb(48, 31, 71);
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
 
 }
 
-.input-group{
-    width: 30%;
-    margin: auto;
-}
-
-#center{
-  width:5%;
+.input-group {
+  width: 20%;
+  height: au;
   margin: auto;
 }
 
-#para{
-  width:50%;
+#center {
+  width: 5%;
   margin: auto;
 }
 
-#left-align{
-  text-align: justify;
+#para {
+  width: 50%;
+  margin: auto;
+}
+
+#left-align {
+  margin-left: 50%;
   margin: auto;
   width: 40%;
 }
 
-form{
+form {
   padding-top: 4%;
 }
 
-h1{
-text-align: center;
+h1 {
+  text-align: center;
 }
 
-.btn.btn-primary{
+.btn.btn-primary {
   margin: auto;
-  background-color: rgba(124, 0, 173);
+  background-color: rgb(139, 5, 192);
   border: 0px;
- 
 }
 
-.floater{
+.btn.btn-primary:hover {
+  background-color: rgb(112, 5, 155);
+  border: 0px;
+}
+
+.floater {
   width: 100%;
   margin: auto;
-  text-align: center;  
+  text-align: center;
   display: inline-block;
 }
 
-.space{
+.space {
   padding-top: 15%;
 }
 
-.background{
+.background {
   position: fixed;
-    top: 10%;
-    left: 25%;
-    right: 25%;
-    margin: auto;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.582);
+  top: 10%;
+  left: 25%;
+  right: 25%;
+  margin: auto;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.582);
 }
 
-.low{
+.low {
   text-align: center;
   padding-top: 5%;
 }
