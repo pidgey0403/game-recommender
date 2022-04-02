@@ -3,9 +3,12 @@ A video game recommendation engine built using the power of natural language pro
 
 ## 🧑‍💻 The Team
 
-This reccomendation engine was made by:
+This recommendation engine was made by:
 
-- [insert memeber names & githubs]
+- Rhea Mangat - [rheamangat]
+- Gabby Niamat - [pidgey0403]
+- Rohit Purandhara - [Rohit-Purandhara]
+- Robyn Berdan - []
 
 ### 💻 How it was built
 
