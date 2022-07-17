@@ -4,7 +4,7 @@
 ---
 This app was designed as part of Western AI's 2021-2022 Projects portfolio. Gamers of all ages are unified in their struggle to find new titles to play that will scratch their itch for ingenuinity, and provide hundreds of hours of entertainment. Users simply input a previously played game title and will receive several new video game suggestions based on thousands of gamer reviews.
 
-## 🧑‍💻 The Team
+### 🧑‍💻 The Team
 
 This full-stack web application was made by:
 - [Rhea Mangat](https://github.com/rheamangat) - Project manager
